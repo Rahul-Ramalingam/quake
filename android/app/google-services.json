@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035366152467",
+    "firebase_url": "https://donkey-fa3b2.firebaseio.com",
+    "project_id": "donkey-fa3b2",
+    "storage_bucket": "donkey-fa3b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035366152467:android:9a838ab611a20c5f",
+        "android_client_info": {
+          "package_name": "com.example.quake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035366152467-d70urnm10ch2iq2klsj2o5q7plb89sv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHwlQqLgHlj0teYJY01IXyWJx3_YNEsEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035366152467-d70urnm10ch2iq2klsj2o5q7plb89sv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
